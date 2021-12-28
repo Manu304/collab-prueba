@@ -29,3 +29,5 @@ docker run -p 5000:5000  -e MYSQLHOST='DIRECCION_IP'  -e MYSQLUSER='prueba' -e M
 
 - Llenar los datos y corroborar en la base de datos local para verificar que si se ingresaron los datos
 
+Si todo sale bien, debería redigirlos a la pagina de login uwu
+
